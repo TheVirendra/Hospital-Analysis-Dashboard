@@ -64,106 +64,43 @@ The Power BI dashboard is divided into multiple pages for better understanding:
 Home Page – Overview and navigation buttons to other reports
 
 
-Overview Page – Key performance indicators (KPIs) such as:
-
+Overview Page – Key performance indicators (KPIs) such as
 
 Total Patients
-
-
 Total Doctors
-
-
 Total Appointments
-
-
 Total Revenue and Profit
 
-
-
-
 Patient Analysis Page – Visuals for:
-
-
 Patient distribution by gender, age group, and disease type
-
-
 Admission vs. discharge trends over time
-
-
-
-
 Doctor Analysis Page – Insights into:
-
-
 Doctor-wise appointments and performance
-
-
 Salary distribution
-
-
 Department-wise doctor count
 
-
-
-
 Finance Page – Charts showing:
-
-
 Monthly revenue and expense trends
-
-
 Profit analysis
-
-
 Cost optimization insights
-
-
-
-
 Hospital Details Page – Summary of:
-
-
 Total staff, bed occupancy rate, departments, and service utilization
 
-
-
-
-
-Key Insights
-
-
+Key Insights :
 Identified departments with the highest number of patient admissions.
-
-
 Found correlations between patient stay duration and specific diseases.
-
-
 Analyzed doctor workload and department efficiency.
-
-
 Highlighted months with peak hospital revenue and high expenses.
-
-
 Helped hospital management identify resource optimization areas.
 
-
-
-Tools & Technologies Used
-
-
+Tools & Technologies Used :
 Power BI Desktop – For visualization and reporting
-
-
 Power Query Editor – For data cleaning and transformation
-
-
 DAX (Data Analysis Expressions) – For KPI calculations
-
-
 Excel – As the primary data source
 
-
-
-Outcome / Business Impact
+Outcome :
 This dashboard provides a centralized and interactive view of hospital data, enabling quick decision-making.
 It helps stakeholders monitor performance metrics, improve patient management, and increase overall operational efficiency.
+<img width="676" height="384" alt="Screenshot 2025-09-23 200149" src="" />
+
