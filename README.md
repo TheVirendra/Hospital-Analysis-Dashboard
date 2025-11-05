@@ -7,7 +7,7 @@ The dashboard helps hospital administrators make data-driven decisions to improv
 Data Description
 
 
-Source: Excel/CSV dataset (imported into Power BI)
+Source: Excel dataset (imported into Power BI)
 
 
 Structure: Multiple tables — Patients, Doctors, Appointments, Finance, and Hospital Details
