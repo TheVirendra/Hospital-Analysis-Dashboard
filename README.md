@@ -102,5 +102,10 @@ Excel – As the primary data source
 Outcome :
 This dashboard provides a centralized and interactive view of hospital data, enabling quick decision-making.
 It helps stakeholders monitor performance metrics, improve patient management, and increase overall operational efficiency.
-<img width="676" height="384" alt="Screenshot 2025-09-23 200149" src="" />
 
+<img width="905" height="504" alt="Home page of HA" src="https://github.com/user-attachments/assets/7f526266-e6c7-4672-ba21-51623a8e7dc7" />
+<img width="889" height="496" alt="ov " src="https://github.com/user-attachments/assets/12afcd3a-6b55-483a-babb-a18abce1fa99" />
+<img width="889" height="496" alt="pa" src="https://github.com/user-attachments/assets/c6e55b0b-3e02-4955-8d8d-6487f44c1d53" />
+<img width="885" height="484" alt="Da" src="https://github.com/user-attachments/assets/9683ab47-ac3b-4400-a009-7f49c7a68874" />
+<img width="887" height="491" alt="Ha" src="https://github.com/user-attachments/assets/c8a55370-a2c4-422d-8242-493bedf52cfd" />
+<img width="907" height="507" alt="FA" src="https://github.com/user-attachments/assets/f5cc9892-b378-4865-8aa3-1d4275297584" />
